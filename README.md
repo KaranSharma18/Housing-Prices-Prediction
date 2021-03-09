@@ -10,15 +10,14 @@
   <li>Data Wrangling</li>
   <li>Feature Engineering</li>
   <li>Data Visualization</li>
-  <li>Auto ARIMA Model</li>
+  <li>Random Forest Regressor</li>
   <li>Linear Regression</li>
-  <li>Support Vector Machines</li> </ul>
+  <li>Support Vector Machines</li> 
+  <li>Fine-tune your Model</li></ul>
  
  <br/>
   
-**Data Sources** : __[COVID-19 datasets from Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)__
-
-**More information** :  __[World Health Organisation(WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)__
+**Data Sources** : __[Housing Prices Dataset]("https://raw.githubusercontent.com/ageron/handson-ml2/master/")__
 
 **Reference Book** :
 
