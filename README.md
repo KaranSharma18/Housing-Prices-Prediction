@@ -1,3 +1,5 @@
-# California-Housing
-The aim of this project is to build a model which will predict housing prices in California using the california census data. these data has a metrics such as population, median income, median housing prices and so on. this model learns from this data and be able to predict the median housing price in any District given all the other metrics.
-Some of the models of this project, I have worked on includes Linear Regression, Decision tree Regression and Random forest Regression
+# Housing Prices Prediction
+
+<ul>
+  <li>The aim of this project is to build a Machine Learning model which will predict Median Value of housing prices of California using the california census data. the data has a metrics such as population, median income, median housing prices and so on. The model able to predict the prices with RMSE - 47K. this Project Also Consist of Various Machine Learning Pipelines and Algorithms include Linear Regression, Support Vector Machines Regressor, Random Forest, etc </li></ul>
+  
