@@ -17,7 +17,7 @@
  
  <br/>
   
-**Data Sources** : __[Housing Prices Dataset]("https://raw.githubusercontent.com/ageron/handson-ml2/master/")__
+**Data Sources** : __[Housing Prices Dataset](https://raw.githubusercontent.com/ageron/handson-ml2/master/)__
 
 **Reference Book** :
 
